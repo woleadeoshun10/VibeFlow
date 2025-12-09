@@ -550,7 +550,14 @@ Style: Code formatting
 ### Mobile View
 
 *(Screenshot: Responsive mobile layout)*
-![Mobile](assets/.png)
+![Mobile](assets/Image8.png)
+
+### Ipad View
+
+*(Screenshot: Responsive Ipad layout)*
+![Ipad](assets/Image7.png)
+
+
 
 -----
 
