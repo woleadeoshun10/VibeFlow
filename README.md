@@ -533,15 +533,19 @@ Style: Code formatting
 ### Main Interface
 
 *(Screenshot: Homepage with mood selector)*
+![Home](assets/Image1.png)
 
 
 ### Playlist Results
 
 *(Screenshot: Grid of playlist cards)*
+![Playlists](assets/Image3.png)
+
 
 ### Favorites Section
 
 *(Screenshot: Favorites with notes)*
+![Favorites](assets/Image5.png)
 
 ### Mobile View
 
@@ -574,25 +578,6 @@ Style: Code formatting
 - [ ] Custom mood creation
 - [ ] Mobile app (React Native)
 - [ ] Spotify Premium integration (direct playback)
-
------
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. **Fork the repository**
-1. **Create a feature branch** (`git checkout -b feature/AmazingFeature`)
-1. **Commit your changes** (`git commit -m 'Add: AmazingFeature'`)
-1. **Push to branch** (`git push origin feature/AmazingFeature`)
-1. **Open a Pull Request**
-
-### Contribution Guidelines
-
-- Follow existing code style
-- Add comments for complex logic
-- Update README if adding features
-- Test thoroughly before submitting PR
 
 -----
 
