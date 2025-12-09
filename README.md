@@ -14,7 +14,6 @@ A full-stack music discovery web application that integrates with Spotify’s AP
 ## 📋 Table of Contents
 
 - [Features](#-features)
-- [Demo](#-demo)
 - [Tech Stack](#-tech-stack)
 - [Architecture](#-architecture)
 - [Getting Started](#-getting-started)
@@ -52,19 +51,6 @@ A full-stack music discovery web application that integrates with Spotify’s AP
 - 🚨 **Error Handling** - User-friendly error messages
 
 -----
-
-## 🎬 Demo
-
-### Live Demo
-
-🔗 **[View Live Demo](#)** *(Coming soon)*
-
-### Quick Start Video
-
-*(Video walkthrough coming soon)*
-
------
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -133,8 +119,8 @@ A full-stack music discovery web application that integrates with Spotify’s AP
 #### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/vibeflow.git
-cd vibeflow
+git clone https://github.com/woleadeoshun10/VibeFlow.git
+cd VibeFlow
 ```
 
 #### 2️⃣ Setup Backend
@@ -548,6 +534,7 @@ Style: Code formatting
 
 *(Screenshot: Homepage with mood selector)*
 
+
 ### Playlist Results
 
 *(Screenshot: Grid of playlist cards)*
@@ -616,7 +603,7 @@ This project is licensed under the **MIT License** - see the <LICENSE> file for 
 ```
 MIT License
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 ADEWOLE ADEOSHUN
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -638,36 +625,13 @@ SOFTWARE.
 ```
 
 -----
-
-## 📧 Contact
-
-**Your Name** - Adewole Adeoshun
-
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 🔗 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
-**Project Link:** <https://github.com/yourusername/vibeflow>
-
------
-
 ## 🙏 Acknowledgments
 
 - [Spotify Web API](https://developer.spotify.com/documentation/web-api) - For comprehensive music data
 - [React Documentation](https://react.dev) - For excellent learning resources
 - [Vite](https://vitejs.dev) - For blazing-fast development experience
 - [Axios](https://axios-http.com) - For simplified HTTP requests
-- Color scheme inspired by Spotify’s branding
-
------
-
-## 📊 Project Stats
-
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/vibeflow)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/vibeflow?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/vibeflow?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/vibeflow)
+- Color scheme inspired by Apple Music’s branding
 
 -----
 
@@ -675,7 +639,7 @@ SOFTWARE.
 
 ### ⭐ Star this repo if you find it helpful! ⭐
 
-**Built with ❤️ and 🎵 by [Your Name]**
+**Built with ❤️ and 🎵 by Adewole**
 
 [⬆ Back to Top](#-vibeflow)
 
