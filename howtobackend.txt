@@ -1,0 +1,72 @@
+Create Folder
+Check if node installed (node --verion)
+Create backend and frontend Folder
+Set up backend (npm init -y)
+Install backend packages (npm install express cors dotenv axios)
+Make env file for hidden stuffs like (API Keys, Password)
+Make server file ( should be in js)   ||   use ls -la (to check hidden files)
+Create app on spotify - https://developer.spotify.com/dashboard
+ID - c1f562451a994ca1936736823b6c1066
+Secret - ea5bb385bda0451196db69779f1b5589
+
+Add id , secret and port to env
+
+change package.json type to module to allow import
+
+Server.js
+-import modules
+-read in env
+-create server
+-read in port 
+
+-add middleware ( code thatr runs before rouutes, like filter or helper)
+
+-spotifyAcessToken (temp password to talk to spotify)
+
+- create function to get spotify token
+-- error handling
+-- convert basic authentication to base 64
+-- try or catch error
+
+- Mood to Query Mapping
+-- dictionary for each mood to search query for spotify
+
+-GET function to create route
+https://api.spotify.com/v1/search?q=happy%20upbeat%20feel%20good&type=playlist&limit=12
+
+-Favorite
+
+-POST to add or Favorite
+
+-Delete from favorites
+
+- start server 
+- check if server can get token 
+
+-Test backend
+NPM start
+test
+http://localhost:3000/api/health
+
+✅ Express Server - Running on port 3000
+✅ Spotify API Integration - Getting real playlists
+✅ 5 Moods - Happy, Chill, Focus, Sad, Afrobeats
+✅ Favorites System - Add/Remove/View favorites
+✅ Error Handling - Graceful error messages
+✅ Health Check - Test endpoint
+
+{
+  "playlist": {
+    "id": "workout123",
+    "name": "Workout Mix",
+    "description": "High energy songs",
+    "image": "https://example.com/image.jpg",
+    "totalTracks": 50,
+    "spotifyUrl": "https://open.spotify.com/playlist/workout123"
+  }
+}
+
+{
+  "userNote": "Perfect for morning gym sessions! 💪"
+}
+
