@@ -550,7 +550,7 @@ Style: Code formatting
 ### Mobile View
 
 *(Screenshot: Responsive mobile layout)*
-![Mobile](assets/Image8.png)
+![Mobile](assets/iPhone.png)
 
 ### Ipad View
 
