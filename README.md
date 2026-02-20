@@ -555,7 +555,7 @@ Style: Code formatting
 ### Ipad View
 
 *(Screenshot: Responsive Ipad layout)*
-![Ipad](assets/Image7.png)
+![Ipad](assets/ipad.png)
 
 
 
